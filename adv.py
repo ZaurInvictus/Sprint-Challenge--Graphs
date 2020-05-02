@@ -33,7 +33,6 @@ traversal_path = []
 ##########################################
 # My code starts below
 
-
 def traverse(graph):
     # placeholder for all
     maze = []
